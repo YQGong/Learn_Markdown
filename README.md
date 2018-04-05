@@ -308,7 +308,7 @@ I get 10 times more traffic from [Google][] than from
 ```
 
 ## images
-```
+`j``
 ![Alt text](/path/to/img.jpg "Optional title")
 ```
 ![Alt text](/path/to/img.jpg "Optional title")
@@ -320,3 +320,6 @@ I get 10 times more traffic from [Google][] than from
 ```
 <http://example.com/>
 
+[Markdown: Syntax](https://daringfireball.net/projects/markdown/syntax#overview)
+
+[少数派](https://sspai.com/post/25137)
